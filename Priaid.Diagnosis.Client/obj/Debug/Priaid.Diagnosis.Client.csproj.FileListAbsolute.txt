@@ -1,0 +1,5 @@
+C:\Users\kwood\Source\Repos\symptomchecker\C#\Priaid.Diagnosis.Client\bin\Debug\Priaid.Diagnosis.Client.dll
+C:\Users\kwood\Source\Repos\symptomchecker\C#\Priaid.Diagnosis.Client\bin\Debug\Priaid.Diagnosis.Client.pdb
+C:\Users\kwood\Source\Repos\symptomchecker\C#\Priaid.Diagnosis.Client\obj\Debug\Priaid.Diagnosis.Client.csprojResolveAssemblyReference.cache
+C:\Users\kwood\Source\Repos\symptomchecker\C#\Priaid.Diagnosis.Client\obj\Debug\Priaid.Diagnosis.Client.dll
+C:\Users\kwood\Source\Repos\symptomchecker\C#\Priaid.Diagnosis.Client\obj\Debug\Priaid.Diagnosis.Client.pdb

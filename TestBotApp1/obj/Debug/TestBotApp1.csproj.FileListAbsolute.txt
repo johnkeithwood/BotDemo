@@ -1,0 +1,41 @@
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Bot Application1.dll.config
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Bot Application1.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Bot Application1.pdb
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Autofac.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Chronic.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.Bot.Builder.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.Bot.Connector.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Newtonsoft.Json.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.Net.Http.Formatting.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.Web.Http.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.Web.Http.WebHost.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Autofac.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.Bot.Builder.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.Bot.Connector.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Newtonsoft.Json.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.Net.Http.Formatting.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.Web.Http.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\System.Web.Http.WebHost.xml
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\obj\Debug\TestBotApp1.csprojResolveAssemblyReference.cache
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\obj\Debug\Bot Application1.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\obj\Debug\Bot Application1.pdb
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Priaid.Diagnosis.Client.dll
+c:\users\kwood\documents\visual studio 2015\Projects\TestBotApp1\TestBotApp1\bin\Priaid.Diagnosis.Client.pdb
